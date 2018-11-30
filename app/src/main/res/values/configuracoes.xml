@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">735b936618f64cb9fcbeffb11ebcc443</string>
+    <string name="web_service_url">https://api.themoviedb.org/3/movie/76341?api_key=735b936618f64cb9fcbeffb11ebcc443</string>
+    <string name="genre_service_url">https://api.themoviedb.org/3/genre/movie/list?api_key=735b936618f64cb9fcbeffb11ebcc443%s&amp;language=en-US</string>
+    <string name="language">language=en-US</string>
+
+</resources>

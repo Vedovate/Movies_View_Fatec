@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto Filme</string>
+    <string name="CategoryTextView">Category</string>
+    <string name="textButtonGenre">%s</string>
+</resources>
